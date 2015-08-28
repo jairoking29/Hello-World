@@ -3,10 +3,10 @@
 ##HUEHUE
 HUEHEUEHUE THIS PROYECT IS HUE
 ##FEATURES:
--Hue
--Huehue
--Chicken
--Chicken
+- Hue
+- Huehue
+- Chicken
+- Chicken
 
 ###Chicken asynchronous reverse inheritance:
 `chicken chicken.chicken(chicken.chicken (Chicken));`
